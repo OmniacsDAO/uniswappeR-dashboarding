@@ -4,7 +4,7 @@
 
 ## Description
 
-Play with the app (https://crypto.omnianalytics.io/apps/uni-phase2-dashboard/)[here].
+Play with the app [here](https://crypto.omnianalytics.io/apps/uni-phase2-dashboard/).
 
 ## About Us
 
